@@ -38,6 +38,7 @@ public class Star4 {
 				System.out.print("* ");
 			}
 			System.out.println();
+			
 		}
 		
 	}
