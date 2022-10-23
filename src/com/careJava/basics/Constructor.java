@@ -3,7 +3,8 @@ package com.careJava.basics;
 public class Constructor {
 	int a;
 	int b;
-	Constructor(){
+	Constructor()
+	{
 		System.out.println("constructor without parameters");
 	}
 	Constructor(int x, int y)

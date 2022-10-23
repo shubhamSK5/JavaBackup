@@ -6,7 +6,8 @@ public class Star3
 {
 public static void main(String[] args) 
 {
-	for(int row=1; row<=25; row++)
+	
+	for(int row=1; row<=5; row++)
 	{
 	 for(int space=0; space>=row; space--)
 	 {
@@ -18,5 +19,6 @@ public static void main(String[] args)
 	 }
 	 System.out.println();
 	}
+	
 }
 }
